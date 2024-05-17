@@ -33,6 +33,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Yandex](https://yandex.ru/legal/confidential/)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
