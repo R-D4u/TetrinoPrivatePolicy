@@ -34,6 +34,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Yandex](https://yandex.ru/legal/confidential/)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
