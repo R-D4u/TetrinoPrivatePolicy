@@ -30,12 +30,10 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Yandex ADS](https://yandex.ru/legal/confidential/)
+*   [Yandex.Metrica](https://yandex.ru/legal/metrica_termsofuse/?lang=en)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [VK ADS](https://help.mail.ru/legal/terms/adsvk/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -74,3 +72,7 @@ By using the Application, you are consenting to the processing of your informati
 **Contact Us**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at rnd4udev@gmail.com.
+
+**Support**
+
+If you would like to contact our support team, please write to us at rnd4udev@gmail.com.
